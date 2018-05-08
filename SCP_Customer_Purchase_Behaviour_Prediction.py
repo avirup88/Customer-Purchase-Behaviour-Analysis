@@ -35,7 +35,7 @@ if __name__ == '__main__':
     #Input File names (Please place all the files in the same directory as the script file)
     
     INPUT_HIST_DATA_FILE = 'train.csv'
-    PRODUCT_PROMOTION_SCHEDULE_FILE = 'promotion_schedule.csv'
+    PRODUCT_PROMOTION_SCHEDULE_FILE = 'promotion_schedule.csv' 
     
     #Output File for storing prediction results
     PROBABILITY_PREDICTION_FILE = 'predictions.csv'
